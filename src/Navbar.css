@@ -1,0 +1,36 @@
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem 2rem;
+    background-color: hwb(0 100% 0%);
+    width: 100%;
+  }
+  
+  .navbar-logo img {
+    height: 100px; /* Adjust the size as needed */
+  }
+  
+  .navbar-links {
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .navbar-links li {
+    margin: 0 15px;
+  }
+  
+  .navbar-links a {
+    color: rgb(31, 31, 31);
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .navbar-links a:hover {
+    text-decoration: underline;
+    text-decoration-color:rgb(203,31,67) ;
+    color: rgb(203,31,67) ;
+  }
+  
