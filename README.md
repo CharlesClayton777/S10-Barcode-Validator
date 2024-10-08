@@ -11,7 +11,8 @@ Clone the application,
 open it on Visual Studio or your choice of application,
 open the terminal,
 run "npm install" to get the packages used in the program,
-then run "npm run dev" to start the program.
+then run "npm run dev" to start the program,
+finally the program will launch on your local host.
 
 If you want to run tests, 
 run "npx vitest"
