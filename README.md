@@ -4,7 +4,7 @@ This is a small react project that allows you to type or scan S10 barcodes and s
 
 Here is a youtube video so you can quickly view the functionality and I suggest future implmentations that could be made to make the project better. 
 
-Youtube Video:
+Youtube Video: https://youtu.be/ncn5OXQydCY
 ==============
 
 If you want to run this file yourself, you need node.js. 
